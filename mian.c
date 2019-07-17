@@ -11,7 +11,7 @@ void DigDisplay();
 void DataProcess();
 void ChangeTemp();
 
-unsigned int temper;
+int temper;
 void main()
 {
 	while(1)
